@@ -38,3 +38,4 @@ It provides personalized career guidance based on a user's **skills**, **interes
 ```bash
 git clone <your-repo-url>
 cd career-recommendation-app
+
